@@ -1,1 +1,1 @@
-# Tugas-Akhir-Statistika-Kelompok-6
+#Project ini digunakan sebagai penyelesaian project akhir statistika kelas C kelompok 6
